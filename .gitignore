@@ -1,7 +1,7 @@
 \venv
 .env
 \__pycache__
-\space_chatbot.db-shm
-\space_chatbot.db-wal
-space_chatbot.db
+\chatbot.db-shm
+\chatbot.db-wal
+chatbot.db
 
