@@ -106,9 +106,6 @@ Then open the URL (usually http://localhost:8501) in your browser.
 ---
 
 
-## 👨‍💻 Author
 
-**Kedar Desai**  
-📧 kedardesai9005@gmail.com  
 
 ---
